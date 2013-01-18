@@ -1,0 +1,9 @@
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\bin\Debug\RedMovil.LandingPageGenerator.UI.exe
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\bin\Debug\RedMovil.LandingPageGenerator.UI.pdb
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x86\Debug\RedMovil.LandingPageGenerator.UI.Form1.resources
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x86\Debug\RedMovil.LandingPageGenerator.UI.Properties.Resources.resources
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x86\Debug\RedMovil.LandingPageGenerator.UI.exe
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x86\Debug\RedMovil.LandingPageGenerator.UI.pdb
