@@ -7,3 +7,5 @@ C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x
 C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x86\Debug\RedMovil.LandingPageGenerator.UI.exe
 C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\obj\x86\Debug\RedMovil.LandingPageGenerator.UI.pdb
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\bin\Debug\RedMovil.LandingPageGenerator.Domain.dll
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.UI\bin\Debug\RedMovil.LandingPageGenerator.Domain.pdb

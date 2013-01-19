@@ -1,0 +1,5 @@
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.Domain\bin\Debug\RedMovil.LandingPageGenerator.Domain.dll
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.Domain\bin\Debug\RedMovil.LandingPageGenerator.Domain.pdb
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.Domain\obj\Debug\RedMovil.LandingPageGenerator.Domain.dll
+C:\RedMovil\RedMovil.LandingPageGenerator\RedMovil.LandingPageGenerator.Domain\obj\Debug\RedMovil.LandingPageGenerator.Domain.pdb

@@ -28,35 +28,76 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.btnStart = new System.Windows.Forms.Button();
+            this.txtRuta = new System.Windows.Forms.TextBox();
+            this.btSearchFile = new System.Windows.Forms.Button();
+            this.lblStatus = new System.Windows.Forms.Label();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.SuspendLayout();
             // 
             // btnStart
             // 
-            this.btnStart.Location = new System.Drawing.Point(12, 12);
+            this.btnStart.Location = new System.Drawing.Point(261, 38);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(75, 23);
             this.btnStart.TabIndex = 0;
             this.btnStart.Text = "Comenzar";
             this.btnStart.UseVisualStyleBackColor = true;
+            this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
+            // 
+            // txtRuta
+            // 
+            this.txtRuta.Enabled = false;
+            this.txtRuta.Location = new System.Drawing.Point(12, 12);
+            this.txtRuta.Name = "txtRuta";
+            this.txtRuta.Size = new System.Drawing.Size(324, 20);
+            this.txtRuta.TabIndex = 1;
+            // 
+            // btSearchFile
+            // 
+            this.btSearchFile.Location = new System.Drawing.Point(12, 38);
+            this.btSearchFile.Name = "btSearchFile";
+            this.btSearchFile.Size = new System.Drawing.Size(91, 23);
+            this.btSearchFile.TabIndex = 2;
+            this.btSearchFile.Text = "Buscar Plantilla";
+            this.btSearchFile.UseVisualStyleBackColor = true;
+            this.btSearchFile.Click += new System.EventHandler(this.btSearchFile_Click);
+            // 
+            // lblStatus
+            // 
+            this.lblStatus.AutoSize = true;
+            this.lblStatus.Location = new System.Drawing.Point(12, 126);
+            this.lblStatus.Name = "lblStatus";
+            this.lblStatus.Size = new System.Drawing.Size(0, 13);
+            this.lblStatus.TabIndex = 3;
+            // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(457, 317);
+            this.ClientSize = new System.Drawing.Size(342, 158);
+            this.Controls.Add(this.lblStatus);
+            this.Controls.Add(this.btSearchFile);
+            this.Controls.Add(this.txtRuta);
             this.Controls.Add(this.btnStart);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
         private System.Windows.Forms.Button btnStart;
+        private System.Windows.Forms.TextBox txtRuta;
+        private System.Windows.Forms.Button btSearchFile;
+        private System.Windows.Forms.Label lblStatus;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
     }
 }
 
